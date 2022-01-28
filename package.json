@@ -4,7 +4,7 @@
   "description": "Este es un ejercicion challenge de encriptar y desencriptar frases.\r El challenge fue creado por arula oracle latam.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d ."
   },
   "keywords": [],
   "author": "",
